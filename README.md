@@ -21,6 +21,21 @@ The project was developed with the assistance of Generative AI and is released a
 
 ---
 
+## Architecture
+<img width="2372" height="1731" alt="architecture" src="https://github.com/user-attachments/assets/573c2b8f-3a18-47e4-b9eb-43e2f6446d6d" />
+
+
+---
+
+## Results
+| Message Length | PSNR ↑ | Token Loss ↓ | Accuracy ↑ |
+| -------------- | ------ | ------------ | ---------- |
+| 3              | 26.76  | 1.96         | \~82%      |
+
+<img width="900" height="810" alt="stegoattngan image" src="https://github.com/user-attachments/assets/6af4aafe-e212-4f46-aa0f-b010bd092999" />
+
+---
+
 ## Installation
 
 Clone the repository and install dependencies:
