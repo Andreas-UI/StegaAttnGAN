@@ -10,6 +10,8 @@ It integrates:
 
 The project was developed with the assistance of Generative AI and is released as **open source** for research and educational purposes.
 
+So Called Paper: [https://github.com/Andreas-UI/StegaAttnGAN/blob/main/StegaAttnGAN.pdf](https://github.com/Andreas-UI/StegaAttnGAN/blob/main/StegaAttnGAN.pdf)
+
 ---
 
 ## Features
@@ -28,9 +30,10 @@ The project was developed with the assistance of Generative AI and is released a
 ---
 
 ## Results
-| Message Length | PSNR ↑ | Token Loss ↓ | Accuracy ↑ |
-| -------------- | ------ | ------------ | ---------- |
-| 3              | 26.76  | 1.96         | \~82%      |
+| Message Length | PSNR (dB) ↑  | Image Loss (MSE) ↓ | Text Loss (CE) ↓ |
+|----------------|---------|--------------|-------------|
+| 3              | 26.76   | 0.0085       | 1.96        |
+
 
 <img width="900" height="810" alt="stegoattngan image" src="https://github.com/user-attachments/assets/6af4aafe-e212-4f46-aa0f-b010bd092999" />
 
