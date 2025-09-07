@@ -1,0 +1,5 @@
+# Ignore all .drawio files
+*.drawio
+
+# Ignore data directory
+data/
